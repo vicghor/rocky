@@ -3,7 +3,7 @@
 workshop test
 
 * bullet 1
- one
-1. number
+ 
+1. number one
 
 > quote
